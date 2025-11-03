@@ -1,0 +1,256 @@
+2024-06-19 17:29:33,542 - Trial with alpha=0.001, max_iter=1000, tol=1e-05
+2024-06-19 17:29:33,545 - Final theta (parameters): [ 1.49960915 -3.06535864 -5.23064865  3.33031541  2.96365318 -0.05127328]
+2024-06-19 17:29:33,545 - Mean Squared Error on training set: 83.19318194817035
+2024-06-19 17:29:33,545 - R2 value on training set: 0.5576959981488514
+2024-06-19 17:29:33,545 - Explained Variance on training set: 0.5576981346109009
+2024-06-19 17:29:33,545 - Variance of residuals on training set: 83.19278009994997
+2024-06-19 17:29:33,545 - 
+
+2024-06-19 17:29:33,549 - Trial with alpha=0.001, max_iter=5000, tol=1e-05
+2024-06-19 17:29:33,549 - Final theta (parameters): [ 1.49960915 -3.06535864 -5.23064865  3.33031541  2.96365318 -0.05127328]
+2024-06-19 17:29:33,549 - Mean Squared Error on training set: 83.19318194817035
+2024-06-19 17:29:33,549 - R2 value on training set: 0.5576959981488514
+2024-06-19 17:29:33,549 - Explained Variance on training set: 0.5576981346109009
+2024-06-19 17:29:33,549 - Variance of residuals on training set: 83.19278009994997
+2024-06-19 17:29:33,549 - 
+
+2024-06-19 17:29:33,558 - Trial with alpha=0.0001, max_iter=10000, tol=1e-05
+2024-06-19 17:29:33,558 - Final theta (parameters): [ 1.5013438  -3.06831166 -5.23925227  3.33136942  2.96400097 -0.05824157]
+2024-06-19 17:29:33,558 - Mean Squared Error on training set: 83.19059376323338
+2024-06-19 17:29:33,558 - R2 value on training set: 0.557709758465843
+2024-06-19 17:29:33,560 - Explained Variance on training set: 0.5577118963300898
+2024-06-19 17:29:33,560 - Variance of residuals on training set: 83.19019165127301
+2024-06-19 17:29:33,560 - 
+
+2024-06-19 17:29:33,560 - Test performance metrics using the best model parameters from the trials (alpha, max_iter, tol): 0.0001, 10000, 1e-05
+2024-06-19 17:29:33,560 - Mean Squared Error on test set: 53.09107284900875
+2024-06-19 17:29:33,560 - R2 value on test set: 0.6835291267232448
+2024-06-19 17:29:33,560 - Explained Variance on test set: 0.6836310984501264
+2024-06-19 17:29:33,560 - Variance of residuals on test set: 53.07396609815883
+2024-06-19 17:29:33,560 - 
+
+2024-06-19 17:30:19,569 - Trial with alpha=0.0001, max_iter=20000, tol=1e-05
+2024-06-19 17:30:19,569 - Final theta (parameters): [ 1.5013438  -3.06831166 -5.23925227  3.33136942  2.96400097 -0.05824157]
+2024-06-19 17:30:19,569 - Mean Squared Error on training set: 83.19059376323338
+2024-06-19 17:30:19,569 - R2 value on training set: 0.557709758465843
+2024-06-19 17:30:19,569 - Explained Variance on training set: 0.5577118963300898
+2024-06-19 17:30:19,569 - Variance of residuals on training set: 83.19019165127301
+2024-06-19 17:30:19,569 - 
+
+2024-06-19 17:30:19,576 - Test performance metrics using the best model parameters from the trials (alpha, max_iter, tol): 0.0001, 20000, 1e-05
+2024-06-19 17:30:19,577 - Mean Squared Error on test set: 53.09107284900875
+2024-06-19 17:30:19,577 - R2 value on test set: 0.6835291267232448
+2024-06-19 17:30:19,577 - Explained Variance on test set: 0.6836310984501264
+2024-06-19 17:30:19,577 - Variance of residuals on test set: 53.07396609815883
+2024-06-19 17:30:19,577 - 
+
+2024-06-19 17:31:21,377 - Trial with alpha=1e-05, max_iter=10000, tol=1e-05
+2024-06-19 17:31:21,377 - Final theta (parameters): [ 1.5015175  -3.06860729 -5.24011497  3.33147464  2.96403543 -0.05894043]
+2024-06-19 17:31:21,377 - Mean Squared Error on training set: 83.19033914041191
+2024-06-19 17:31:21,377 - R2 value on training set: 0.5577111121908751
+2024-06-19 17:31:21,377 - Explained Variance on training set: 0.5577132501949535
+2024-06-19 17:31:21,377 - Variance of residuals on training set: 83.18993700215051
+2024-06-19 17:31:21,382 - 
+
+2024-06-19 17:31:21,382 - Test performance metrics using the best model parameters from the trials (alpha, max_iter, tol): 1e-05, 10000, 1e-05
+2024-06-19 17:31:21,382 - Mean Squared Error on test set: 53.091848830667104
+2024-06-19 17:31:21,382 - R2 value on test set: 0.6835245011698348
+2024-06-19 17:31:21,382 - Explained Variance on test set: 0.6836266071642723
+2024-06-19 17:31:21,382 - Variance of residuals on test set: 53.07471955512628
+2024-06-19 17:31:21,382 - 
+
+2024-06-19 17:31:54,763 - Trial with alpha=1e-06, max_iter=10000, tol=1e-05
+2024-06-19 17:31:54,763 - Final theta (parameters): [ 1.50153487 -3.06863685 -5.24020127  3.33148516  2.96403888 -0.05901033]
+2024-06-19 17:31:54,763 - Mean Squared Error on training set: 83.19031372024176
+2024-06-19 17:31:54,763 - R2 value on training set: 0.5577112473394861
+2024-06-19 17:31:54,767 - Explained Variance on training set: 0.557713385357544
+2024-06-19 17:31:54,767 - Variance of residuals on training set: 83.18991157935096
+2024-06-19 17:31:54,767 - 
+
+2024-06-19 17:31:54,768 - Test performance metrics using the best model parameters from the trials (alpha, max_iter, tol): 1e-06, 10000, 1e-05
+2024-06-19 17:31:54,768 - Mean Squared Error on test set: 53.09192649986391
+2024-06-19 17:31:54,768 - R2 value on test set: 0.6835240381910848
+2024-06-19 17:31:54,768 - Explained Variance on test set: 0.6836261576165219
+2024-06-19 17:31:54,768 - Variance of residuals on test set: 53.074794971142026
+2024-06-19 17:31:54,768 - 
+
+2024-06-19 17:32:06,597 - Trial with alpha=1e-07, max_iter=10000, tol=1e-05
+2024-06-19 17:32:06,597 - Final theta (parameters): [ 1.50153661 -3.06863981 -5.2402099   3.33148621  2.96403922 -0.05901732]
+2024-06-19 17:32:06,597 - Mean Squared Error on training set: 83.19031117864598
+2024-06-19 17:32:06,597 - R2 value on training set: 0.5577112608521075
+2024-06-19 17:32:06,597 - Explained Variance on training set: 0.5577133988715635
+2024-06-19 17:32:06,597 - Variance of residuals on training set: 83.18990903749227
+2024-06-19 17:32:06,597 - 
+
+2024-06-19 17:32:06,603 - Test performance metrics using the best model parameters from the trials (alpha, max_iter, tol): 1e-07, 10000, 1e-05
+2024-06-19 17:32:06,603 - Mean Squared Error on test set: 53.09193426749419
+2024-06-19 17:32:06,603 - R2 value on test set: 0.683523991888974
+2024-06-19 17:32:06,605 - Explained Variance on test set: 0.6836261126575536
+2024-06-19 17:32:06,605 - Variance of residuals on test set: 53.074802513447075
+2024-06-19 17:32:06,605 - 
+
+2024-06-19 17:32:19,779 - Trial with alpha=1e-08, max_iter=10000, tol=1e-05
+2024-06-19 17:32:19,779 - Final theta (parameters): [ 1.50153678 -3.0686401  -5.24021076  3.33148632  2.96403926 -0.05901802]
+2024-06-19 17:32:19,779 - Mean Squared Error on training set: 83.19031092449065
+2024-06-19 17:32:19,779 - R2 value on training set: 0.5577112622033471
+2024-06-19 17:32:19,779 - Explained Variance on training set: 0.5577134002229428
+2024-06-19 17:32:19,779 - Variance of residuals on training set: 83.18990878331064
+2024-06-19 17:32:19,779 - 
+
+2024-06-19 17:32:19,779 - Test performance metrics using the best model parameters from the trials (alpha, max_iter, tol): 1e-08, 10000, 1e-05
+2024-06-19 17:32:19,779 - Mean Squared Error on test set: 53.09193504426427
+2024-06-19 17:32:19,779 - R2 value on test set: 0.6835239872587209
+2024-06-19 17:32:19,779 - Explained Variance on test set: 0.6836261081616153
+2024-06-19 17:32:19,779 - Variance of residuals on test set: 53.07480326768453
+2024-06-19 17:32:19,779 - 
+
+2024-06-19 17:32:36,147 - Trial with alpha=1e-09, max_iter=10000, tol=1e-05
+2024-06-19 17:32:36,147 - Final theta (parameters): [ 1.5015368  -3.06864013 -5.24021085  3.33148633  2.96403926 -0.05901809]
+2024-06-19 17:32:36,147 - Mean Squared Error on training set: 83.19031089907514
+2024-06-19 17:32:36,147 - R2 value on training set: 0.557711262338471
+2024-06-19 17:32:36,147 - Explained Variance on training set: 0.5577134003580806
+2024-06-19 17:32:36,147 - Variance of residuals on training set: 83.18990875789251
+2024-06-19 17:32:36,147 - 
+
+2024-06-19 17:32:36,147 - Test performance metrics using the best model parameters from the trials (alpha, max_iter, tol): 1e-09, 10000, 1e-05
+2024-06-19 17:32:36,147 - Mean Squared Error on test set: 53.09193512194134
+2024-06-19 17:32:36,147 - R2 value on test set: 0.6835239867956953
+2024-06-19 17:32:36,147 - Explained Variance on test set: 0.6836261077120209
+2024-06-19 17:32:36,152 - Variance of residuals on test set: 53.07480334310837
+2024-06-19 17:32:36,152 - 
+
+2024-06-19 17:32:54,849 - Trial with alpha=1e-10, max_iter=10000, tol=1e-05
+2024-06-19 17:32:54,849 - Final theta (parameters): [ 1.5015368  -3.06864014 -5.24021085  3.33148633  2.96403926 -0.0590181 ]
+2024-06-19 17:32:54,849 - Mean Squared Error on training set: 83.1903108965336
+2024-06-19 17:32:54,849 - R2 value on training set: 0.5577112623519833
+2024-06-19 17:32:54,849 - Explained Variance on training set: 0.5577134003715943
+2024-06-19 17:32:54,849 - Variance of residuals on training set: 83.1899087553507
+2024-06-19 17:32:54,849 - 
+
+2024-06-19 17:32:54,849 - Test performance metrics using the best model parameters from the trials (alpha, max_iter, tol): 1e-10, 10000, 1e-05
+2024-06-19 17:32:54,849 - Mean Squared Error on test set: 53.09193512970907
+2024-06-19 17:32:54,849 - R2 value on test set: 0.6835239867493925
+2024-06-19 17:32:54,849 - Explained Variance on test set: 0.6836261076670616
+2024-06-19 17:32:54,849 - Variance of residuals on test set: 53.07480335065074
+2024-06-19 17:32:54,849 - 
+
+2024-06-19 17:34:04,790 - Trial with alpha=1e-11, max_iter=10000, tol=1e-05
+2024-06-19 17:34:04,790 - Final theta (parameters): [ 1.5015368  -3.06864014 -5.24021086  3.33148633  2.96403926 -0.0590181 ]
+2024-06-19 17:34:04,790 - Mean Squared Error on training set: 83.19031089627946
+2024-06-19 17:34:04,790 - R2 value on training set: 0.5577112623533345
+2024-06-19 17:34:04,790 - Explained Variance on training set: 0.5577134003729456
+2024-06-19 17:34:04,790 - Variance of residuals on training set: 83.18990875509652
+2024-06-19 17:34:04,790 - 
+
+2024-06-19 17:34:04,790 - Test performance metrics using the best model parameters from the trials (alpha, max_iter, tol): 1e-11, 10000, 1e-05
+2024-06-19 17:34:04,790 - Mean Squared Error on test set: 53.09193513048583
+2024-06-19 17:34:04,790 - R2 value on test set: 0.6835239867447622
+2024-06-19 17:34:04,790 - Explained Variance on test set: 0.6836261076625656
+2024-06-19 17:34:04,790 - Variance of residuals on test set: 53.07480335140497
+2024-06-19 17:34:04,790 - 
+
+2024-06-19 17:34:16,089 - Trial with alpha=1e-12, max_iter=10000, tol=1e-05
+2024-06-19 17:34:16,089 - Final theta (parameters): [ 1.5015368  -3.06864014 -5.24021086  3.33148633  2.96403926 -0.0590181 ]
+2024-06-19 17:34:16,089 - Mean Squared Error on training set: 83.19031089625405
+2024-06-19 17:34:16,089 - R2 value on training set: 0.5577112623534697
+2024-06-19 17:34:16,089 - Explained Variance on training set: 0.5577134003730808
+2024-06-19 17:34:16,089 - Variance of residuals on training set: 83.1899087550711
+2024-06-19 17:34:16,089 - 
+
+2024-06-19 17:34:16,089 - Test performance metrics using the best model parameters from the trials (alpha, max_iter, tol): 1e-12, 10000, 1e-05
+2024-06-19 17:34:16,089 - Mean Squared Error on test set: 53.0919351305635
+2024-06-19 17:34:16,089 - R2 value on test set: 0.6835239867442993
+2024-06-19 17:34:16,089 - Explained Variance on test set: 0.683626107662116
+2024-06-19 17:34:16,089 - Variance of residuals on test set: 53.0748033514804
+2024-06-19 17:34:16,089 - 
+
+2024-06-19 17:34:28,433 - Trial with alpha=1e-13, max_iter=10000, tol=1e-05
+2024-06-19 17:34:28,433 - Final theta (parameters): [ 1.5015368  -3.06864014 -5.24021086  3.33148633  2.96403926 -0.0590181 ]
+2024-06-19 17:34:28,433 - Mean Squared Error on training set: 83.19031089625148
+2024-06-19 17:34:28,433 - R2 value on training set: 0.5577112623534832
+2024-06-19 17:34:28,433 - Explained Variance on training set: 0.5577134003730944
+2024-06-19 17:34:28,433 - Variance of residuals on training set: 83.18990875506854
+2024-06-19 17:34:28,433 - 
+
+2024-06-19 17:34:28,433 - Test performance metrics using the best model parameters from the trials (alpha, max_iter, tol): 1e-13, 10000, 1e-05
+2024-06-19 17:34:28,433 - Mean Squared Error on test set: 53.091935130571315
+2024-06-19 17:34:28,433 - R2 value on test set: 0.6835239867442527
+2024-06-19 17:34:28,433 - Explained Variance on test set: 0.6836261076620707
+2024-06-19 17:34:28,433 - Variance of residuals on test set: 53.074803351488
+2024-06-19 17:34:28,433 - 
+
+2024-06-19 17:35:40,552 - Trial with alpha=1e-14, max_iter=10000, tol=1e-05
+2024-06-19 17:35:40,552 - Final theta (parameters): [ 1.5015368  -3.06864014 -5.24021086  3.33148633  2.96403926 -0.0590181 ]
+2024-06-19 17:35:40,557 - Mean Squared Error on training set: 83.1903108962512
+2024-06-19 17:35:40,557 - R2 value on training set: 0.5577112623534847
+2024-06-19 17:35:40,557 - Explained Variance on training set: 0.5577134003730958
+2024-06-19 17:35:40,557 - Variance of residuals on training set: 83.18990875506829
+2024-06-19 17:35:40,557 - 
+
+2024-06-19 17:35:40,562 - Test performance metrics using the best model parameters from the trials (alpha, max_iter, tol): 1e-14, 10000, 1e-05
+2024-06-19 17:35:40,562 - Mean Squared Error on test set: 53.091935130572125
+2024-06-19 17:35:40,562 - R2 value on test set: 0.683523986744248
+2024-06-19 17:35:40,562 - Explained Variance on test set: 0.683626107662066
+2024-06-19 17:35:40,562 - Variance of residuals on test set: 53.07480335148878
+2024-06-19 17:35:40,562 - 
+
+2024-06-19 17:35:52,600 - Trial with alpha=1e-15, max_iter=10000, tol=1e-05
+2024-06-19 17:35:52,600 - Final theta (parameters): [ 1.5015368  -3.06864014 -5.24021086  3.33148633  2.96403926 -0.0590181 ]
+2024-06-19 17:35:52,600 - Mean Squared Error on training set: 83.1903108962512
+2024-06-19 17:35:52,600 - R2 value on training set: 0.5577112623534847
+2024-06-19 17:35:52,600 - Explained Variance on training set: 0.5577134003730958
+2024-06-19 17:35:52,600 - Variance of residuals on training set: 83.18990875506829
+2024-06-19 17:35:52,600 - 
+
+2024-06-19 17:35:52,600 - Test performance metrics using the best model parameters from the trials (alpha, max_iter, tol): 1e-15, 10000, 1e-05
+2024-06-19 17:35:52,600 - Mean Squared Error on test set: 53.09193513057212
+2024-06-19 17:35:52,600 - R2 value on test set: 0.683523986744248
+2024-06-19 17:35:52,600 - Explained Variance on test set: 0.683626107662066
+2024-06-19 17:35:52,600 - Variance of residuals on test set: 53.07480335148878
+2024-06-19 17:35:52,600 - 
+
+2024-06-19 17:37:13,507 - Trial with alpha=1e-15, max_iter=10000, tol=1e-06
+2024-06-19 17:37:13,507 - Final theta (parameters): [ 1.5015368  -3.06864014 -5.24021086  3.33148633  2.96403926 -0.0590181 ]
+2024-06-19 17:37:13,507 - Mean Squared Error on training set: 83.1903108962512
+2024-06-19 17:37:13,507 - R2 value on training set: 0.5577112623534847
+2024-06-19 17:37:13,507 - Explained Variance on training set: 0.5577134003730958
+2024-06-19 17:37:13,507 - Variance of residuals on training set: 83.18990875506829
+2024-06-19 17:37:13,507 - 
+
+2024-06-19 17:37:13,509 - Test performance metrics using the best model parameters from the trials (alpha, max_iter, tol): 1e-15, 10000, 1e-06
+2024-06-19 17:37:13,509 - Mean Squared Error on test set: 53.09193513057212
+2024-06-19 17:37:13,509 - R2 value on test set: 0.683523986744248
+2024-06-19 17:37:13,509 - Explained Variance on test set: 0.683626107662066
+2024-06-19 17:37:13,509 - Variance of residuals on test set: 53.07480335148878
+2024-06-19 17:37:13,509 - 
+
+2024-06-19 18:10:50,859 - Trial with alpha=1e-14, max_iter=10000, tol=1e-06
+2024-06-19 18:10:50,859 - Final theta (parameters): [ 1.5015368  -3.06864014 -5.24021086  3.33148633  2.96403926 -0.0590181 ]
+2024-06-19 18:10:50,859 - Mean Squared Error on training set: 83.1903108962512
+2024-06-19 18:10:50,859 - R2 value on training set: 0.5577112623534847
+2024-06-19 18:10:50,859 - Explained Variance on training set: 0.5577134003730958
+2024-06-19 18:10:50,859 - Variance of residuals on training set: 83.18990875506829
+2024-06-19 18:10:50,859 - 
+
+2024-06-19 18:10:50,859 - Test performance metrics using the best model parameters from the trials (alpha, max_iter, tol): 1e-14, 10000, 1e-06
+2024-06-19 18:10:50,859 - Mean Squared Error on test set: 53.091935130572125
+2024-06-19 18:10:50,859 - R2 value on test set: 0.683523986744248
+2024-06-19 18:10:50,859 - Explained Variance on test set: 0.683626107662066
+2024-06-19 18:10:50,859 - Variance of residuals on test set: 53.07480335148878
+2024-06-19 18:10:50,859 - 
+
+2024-06-19 18:18:03,165 - Trial with alpha=1e-14, max_iter=10000, tol=1e-06
+2024-06-19 18:18:03,165 - Final theta (parameters): [ 1.5015368  -3.06864014 -5.24021086  3.33148633  2.96403926 -0.0590181 ]
+2024-06-19 18:18:03,165 - Mean Squared Error on training set: 83.1903108962512
+2024-06-19 18:18:03,165 - R2 value on training set: 0.5577112623534847
+2024-06-19 18:18:03,165 - Explained Variance on training set: 0.5577134003730958
+2024-06-19 18:18:03,165 - Variance of residuals on training set: 83.18990875506829
+2024-06-19 18:18:03,165 - 
+
+2024-06-19 18:18:03,167 - Test performance metrics using the best model parameters from the trials (alpha, max_iter, tol): 1e-14, 10000, 1e-06
+2024-06-19 18:18:03,167 - Mean Squared Error on test set: 53.091935130572125
+2024-06-19 18:18:03,167 - R2 value on test set: 0.683523986744248
+2024-06-19 18:18:03,167 - Explained Variance on test set: 0.683626107662066
+2024-06-19 18:18:03,167 - Variance of residuals on test set: 53.07480335148878
+2024-06-19 18:18:03,167 - 
+
